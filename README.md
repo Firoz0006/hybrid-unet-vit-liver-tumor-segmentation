@@ -72,8 +72,7 @@ After uploading your actual figures to the `figures/` folder, display them here.
 Example:
 
 ```markdown
-![Model Architecture]([figures/Preprocessed Picture.png](https://github.com/Firoz0006/hybrid-unet-vit-liver-tumor-segmentation/blob/main/figures/Preprocessed%20Picture.png?raw=true))
-
+![Preprocessed CT Image](figures/Preprocessed%20Picture.png)
 ![Segmentation Results](figures/UNet Model Architecture.png)
 ```
 
