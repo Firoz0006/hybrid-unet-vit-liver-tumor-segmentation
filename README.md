@@ -103,7 +103,7 @@ Add the final publication or conference details, DOI, and citation once availabl
 
 ## 👨‍💻 Author
 
-Add your name, institutional affiliation, and professional profile links.
+Firoz Alam, Assistant Professor, Department of CSIT KIET College.
 
 ## ⚕️ Disclaimer
 
