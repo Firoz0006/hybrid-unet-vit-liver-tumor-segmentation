@@ -72,9 +72,9 @@ After uploading your actual figures to the `figures/` folder, display them here.
 Example:
 
 ```markdown
-![Model Architecture](figures/model_architecture.png)
+![Model Architecture](figures/Preprocessed Picture.png)
 
-![Segmentation Results](figures/segmentation_results.png)
+![Segmentation Results](figures/UNet Model Architecture.png)
 ```
 
 ## 📂 Dataset
