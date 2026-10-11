@@ -79,7 +79,7 @@ Example:
 
 ## 📂 Dataset
 
-**Dataset:** Add the exact dataset name, source link, preprocessing procedure, and train/validation/test split used in your experiments.
+**Dataset:** LiTS, source link, preprocessing procedure, and train/validation/test split used in your experiments.
 
 Follow the dataset's licensing and access conditions. Do not upload restricted medical images without permission.
 
