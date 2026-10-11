@@ -73,7 +73,8 @@ Example:
 
 ```markdown
 ![Preprocessed CT Image](figures/Preprocessed%20Picture.png)
-![Segmentation Results](figures/UNet Model Architecture.png)
+
+![UNet Model Architecture](figures/UNet%20Model%20Architecture.png)
 ```
 
 ## 📂 Dataset
